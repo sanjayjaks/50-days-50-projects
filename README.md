@@ -1,6 +1,5 @@
-# 50-days-50-projects
+# 🚀 50 Days - 50 Projects Challenge 💯
 
-🚀 50 Days - 50 Projects Challenge 💯
 Welcome to my 50 Days - 50 Projects challenge! 🎯 Each day, I'll build a new HTML, CSS, and JavaScript project, pushing my skills to the next level. From interactive UI elements to creative animations, this journey is all about learning by doing!
 
 Why This Challenge?
